@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on **Reactjs**
 
-- 🌱 I’m currently learning **HTML,CSS,JAVASCRIPT,REACTJS**
+- 🌱 Proficient in **JAVA,HTML,CSS,JAVASCRIPT**
 
-- 📫 How to reach me **aryan.panwar.307.ap@gmail.com**
+- 📫 How to reach me **aryan.1923me1130@kiet.edu**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
