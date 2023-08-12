@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aryan Panwar</h1>
-<h3 align="center">A passionate developer</h3>
+<h3 align="center">A passionate full stack developer</h3>
 
-- 🔭 I’m currently working on **Reactjs**
+- 🔭 I’m currently working on **Reactjs, Nodejs, Expressjs, MongoDB**
 
 - 🌱 Proficient in **JAVA,HTML,CSS,JAVASCRIPT**
 
